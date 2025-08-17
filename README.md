@@ -12,11 +12,14 @@
 
 ---
 
+
 ## About Me  
-Final year B.Tech CSE student.  
-Focused on building clean, modern, and impactful web experiences.  
-Currently exploring Flutter and experimenting with machine learning.  
-I thrive on solving problems and turning abstract ideas into functional, futuristic projects.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Final%20year-B.Tech%20CSE-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Experiences-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Exploring-Flutter-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experimenting-Machine%20Learning-ff69b4?style=for-the-badge" />
+</p>
 
 ---
 
@@ -27,7 +30,7 @@ I thrive on solving problems and turning abstract ideas into functional, futuris
 
 ---
 
-## Stars & Flow  
+## Code Streak
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
