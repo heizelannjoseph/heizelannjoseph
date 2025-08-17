@@ -6,9 +6,10 @@
   <img src="https://i.pinimg.com/originals/f6/67/76/f66776f10e13af7e1e76c7315bbf6e6f.gif" width="800" />
 </p>
 
-<h2 align="center" style="color:white; font-family:monospace; font-size:24px;">
-  Practice makes perfect, debugging makes legends
-</h2>
+<p align="center">
+  <img src="https://via.placeholder.com/800x80/FF69B4/FFFFFF?text=Practice+makes+perfect,+debugging+makes+legends" width="800" />
+</p>
+
 
 ---
 
@@ -16,10 +17,10 @@
 
 ## About Me  
 
-- **Who I Am** → Final year B.Tech CSE student  
-- **What I Do** → Build modern and functional web/mobile projects  
-- **What I’m Learning** → Flutter & Machine Learning  
-- **What Drives Me** → Problem solving and innovation  
+- I'm a Final year B.Tech CSE student  
+- I'm passionate about building modern and functional websites
+- Currently working on DSA
+- Problem solving and innovation drives me everytime  
 
 ---
 
