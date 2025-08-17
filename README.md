@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <!-- Gaming-style GIF instead of snake -->
-  <img src="https://media.giphy.com/media/l0HlQ7LRalH1S0RHi/giphy.gif" width="800" />
+  <img src="https://i.pinimg.com/originals/f6/67/76/f66776f10e13af7e1e76c7315bbf6e6f.gif" width="800" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=80&section=header&text=Practice%20makes%20perfect,%20debugging%20makes%20legends&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55"/>
 </p>
+
 
 ---
 
@@ -36,12 +36,9 @@
 
 ---
 
-## 🎮 GitHub XP  
+## 📊 Code Streak  
 
-<p align="center">
-  <!-- Gaming effect: Pac-Man chase style -->
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="600" />
-</p>
+<img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" />
 
 ---
 
