@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x80/FF69B4/FFFFFF?text=Practice+makes+perfect,+debugging+makes+legends" width="800" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=80&section=header&text=Practice%20makes%20perfect,%20debugging%20makes%20legends&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55"/>
 </p>
+
 
 
 ---
