@@ -13,15 +13,16 @@
 ---
 
 
+
 ## About Me  
-<p align="center">
-  <img src="https://img.shields.io/badge/Final%20year-B.Tech%20CSE-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Experiences-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Flutter-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experimenting-Machine%20Learning-ff69b4?style=for-the-badge" />
-</p>
+
+- **Who I Am** → Final year B.Tech CSE student  
+- **What I Do** → Build modern and functional web/mobile projects  
+- **What I’m Learning** → Flutter & Machine Learning  
+- **What Drives Me** → Problem solving and innovation  
 
 ---
+
 
 ## 🚀 Techverse  
 <p align="center">
