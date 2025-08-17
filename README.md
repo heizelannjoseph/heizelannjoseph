@@ -14,6 +14,7 @@
 ---
 
 ## 👩‍💻 About Me  
+
 - I'm a Final year B.Tech CSE student  
 - I'm passionate about building modern and functional websites  
 - Currently working on DSA  
@@ -24,15 +25,13 @@
 ## 🚀 Techverse  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizelannjoseph&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,git,figma&perline=7" />
-</p>
-
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heizelannjoseph&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=FF69B4&dates=ffffff&hide_border=true" />
+  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -40,11 +39,7 @@
 ## 📊 Code Streak  
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=heizelannjoseph&data=followers,repositories,stars,commits&theme=radical" />
+  <img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
