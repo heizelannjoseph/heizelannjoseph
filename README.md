@@ -11,29 +11,34 @@
 </p>
 
 
-
 ---
 
-
-
-## About Me  
-
+## 👩‍💻 About Me  
 - I'm a Final year B.Tech CSE student  
-- I'm passionate about building modern and functional websites
-- Currently working on DSA
+- I'm passionate about building modern and functional websites  
+- Currently working on DSA  
 - Problem solving and innovation drives me everytime  
 
 ---
 
-
 ## 🚀 Techverse  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,git,figma" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizelannjoseph&layout=compact&theme=radical&title_color=FF69B4&text_color=ffffff&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter,react,git,figma&perline=7" />
+</p>
+
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heizelannjoseph&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=FF69B4&dates=ffffff&hide_border=true" />
 </p>
 
 ---
 
-## Code Streak
+## 📊 Code Streak  
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
