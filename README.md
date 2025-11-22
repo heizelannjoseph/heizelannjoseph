@@ -10,17 +10,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=80&section=header&text=Practice%20makes%20perfect,%20debugging%20makes%20legends.&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55"/>
 </p>
 
-
 ---
 
 ## 👩‍💻 About Me  
 
 - 🎓 Final Year B.Tech CSE Student  
-- 💖 Passionate about building modern, clean, aesthetic websites  
-- 💡 Currently working on DSA & frontend mastery  
+- 💖 Passionate about building modern, aesthetic websites  
+- 💡 Currently practicing DSA & frontend mastery  
 - ⚡ Love problem-solving, UI/UX, and creating smooth digital experiences  
 - ☕ Fueled by coffee, creativity, and good music  
-
 
 ---
 
@@ -36,16 +34,16 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-
 ---
 
-## ✨ Cute Developer Vibes  
+## 🐾 Cute Coding Companion  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Yz4xBQ0vH8byhZQFZF/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150">
+  <img src="https://i.pinimg.com/originals/17/a1/94/17a1940c896ed324f16937f1df3c5d3b.gif" width="300">
+  <img src="https://i.pinimg.com/originals/38/11/6b/38116b2d4d6392a74c6a0c63a2d5aefc.gif" width="150">
 </p>
+
+> Girl coding + black cat companion 🐱✨  
 
 ---
 
@@ -67,10 +65,9 @@
 
 ---
 
-## 🕹️ Live Pac-Man Contribution Streak (Your Real One!)
+## 🕹️ Live Pac-Man Contribution Streak  
 
-> ✔ This will automatically update once your GitHub Action runs.  
-> ✔ It will show **your actual contribution pattern**, not a general one.
+> ✔ This will show your real GitHub contributions once your workflow runs.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" />
@@ -78,7 +75,7 @@
 
 ---
 
-## 🧩 Skill Icons  
+## 🧩 Skills  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,vscode,github" />
