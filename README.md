@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Heizel+Ann+Joseph" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=36&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Heizel+Ann+Joseph;Web+Developer+%7C+Tech+Explorer;Code.+Create.+Inspire.💖">
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=80&section=header&text=Practice%20makes%20perfect,%20debugging%20makes%20legends&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=80&section=header&text=Practice%20makes%20perfect,%20debugging%20makes%20legends.&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=55"/>
 </p>
 
 
@@ -15,10 +15,12 @@
 
 ## 👩‍💻 About Me  
 
-- I'm a Final year B.Tech CSE student  
-- I'm passionate about building modern and functional websites  
-- Currently working on DSA  
-- Problem solving and innovation drives me everytime  
+- 🎓 Final Year B.Tech CSE Student  
+- 💖 Passionate about building modern, clean, aesthetic websites  
+- 💡 Currently working on DSA & frontend mastery  
+- ⚡ Love problem-solving, UI/UX, and creating smooth digital experiences  
+- ☕ Fueled by coffee, creativity, and good music  
+
 
 ---
 
@@ -34,12 +36,69 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+
 ---
 
-## 📊 Code Streak  
+## ✨ Cute Developer Vibes  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow" alt="Pacman Animation"/>
+  <img src="https://media.giphy.com/media/Yz4xBQ0vH8byhZQFZF/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="150">
+</p>
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heizelannjoseph&show_icons=true&theme=radical&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff&hide_border=true" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heizelannjoseph&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heizelannjoseph&theme=dracula&bg_color=ffeff5&color=ff69b4&line=ff69b4&point=000000&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🕹️ Live Pac-Man Contribution Streak (Your Real One!)
+
+> ✔ This will automatically update once your GitHub Action runs.  
+> ✔ It will show **your actual contribution pattern**, not a general one.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 Skill Icons  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,vscode,github" />
+</p>
+
+---
+
+## 🎧 Now Playing  
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem">
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
