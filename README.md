@@ -38,7 +38,9 @@
 
 ## 📊 Code Streak  
 
-<img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=yellow" alt="Pacman Animation"/>
+</p>
 
 ---
 
