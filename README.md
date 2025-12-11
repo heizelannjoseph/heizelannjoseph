@@ -44,24 +44,12 @@
 
 ---
 
-## 🎀Stats & Activity  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heizelannjoseph&show_icons=true&theme=radical&icon_color=FF69B4&title_color=ff79c6&text_color=ffffff&bg_color=00000000" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heizelannjoseph&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=ffffff" height="160px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizelannjoseph&layout=compact&theme=radical&title_color=ff79c6&text_color=ffffff&bg_color=00000000" height="160px" />
-</p>
-
----
 
 ## 🎧 Now Playing  
-(Replace your Spotify ID!)
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jukzgtv5xoxc32og3hgep544em&cover_image=true&theme=novatorem" />
 </p>
 
 
