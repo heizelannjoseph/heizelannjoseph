@@ -61,8 +61,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/1BcfiGlOGXzQk/giphy.gif" width="85"/>
-</p>
-
 
