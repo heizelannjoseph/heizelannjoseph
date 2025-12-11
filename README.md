@@ -34,46 +34,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
 
-## 🐾 Cute Coding Companion  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/17/a1/94/17a1940c896ed324f16937f1df3c5d3b.gif" width="300">
-  <img src="https://i.pinimg.com/originals/38/11/6b/38116b2d4d6392a74c6a0c63a2d5aefc.gif" width="150">
-</p>
 
-> Girl coding + black cat companion 🐱✨  
 
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heizelannjoseph&show_icons=true&theme=radical&icon_color=ff69b4&title_color=ff69b4&text_color=ffffff&hide_border=true" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heizelannjoseph&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🌈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heizelannjoseph&theme=dracula&bg_color=ffeff5&color=ff69b4&line=ff69b4&point=000000&area=true&hide_border=true" />
-</p>
-
----
-
-## 🕹️ Live Pac-Man Contribution Streak  
-
-> ✔ This will show your real GitHub contributions once your workflow runs.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heizelannjoseph/heizelannjoseph/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🧩 Skills  
 
