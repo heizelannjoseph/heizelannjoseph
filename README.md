@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=36&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Heizel+Ann+Joseph;Web+Developer+%7C+Tech+Explorer;">
 </h1>
 
-<!-- 🌸 Cute Girl Coding Animation -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/15/3c/1e/153c1ecb7fd8cd21d7f4a8574fbe0c57.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J1OXN3Z2ZzMzhneWc5ZzB6b2d1Z3NybnNrdmZvbTh6aW5xbWxhYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
 </p>
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f6/67/76/f66776f10e13af7e1e76c7315bbf6e6f.gif" width="800" />
