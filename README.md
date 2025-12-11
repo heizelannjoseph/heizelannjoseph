@@ -12,44 +12,74 @@
 
 ---
 
-## 👩‍💻 About Me  
+## 🌷 About Me  
 
-- 🎓 Final Year B.Tech CSE Student  
-- 💖 Passionate about building modern, aesthetic websites  
-- 💡 Currently practicing DSA & frontend mastery  
-- ⚡ Love problem-solving, UI/UX, and creating smooth digital experiences  
-- ☕ Fueled by coffee, creativity, and good music  
+💖 Final Year B.Tech CSE Student  
+✨ Passionate about building clean, aesthetic digital experiences  
+🎨 UI/UX lover | React & Flutter explorer  
+🧠 DSA learner | Always curious  
+🌈 Dreaming big & coding it into reality  
 
 ---
 
-## 🚀 Techverse  
+## Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-
-
-
-
-
-## 🧩 Skills  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,vscode,github" />
+  <img src="https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-ff9671?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f9f871?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-ffc75f?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-ff9671?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-fc6c85?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-845EC2?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
+## 💫 Skills & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,vscode,github,python,mysql" />
+</p>
+
+---
+
+## 🎀Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heizelannjoseph&show_icons=true&theme=radical&icon_color=FF69B4&title_color=ff79c6&text_color=ffffff&bg_color=00000000" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=heizelannjoseph&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=ffffff" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heizelannjoseph&layout=compact&theme=radical&title_color=ff79c6&text_color=ffffff&bg_color=00000000" height="160px" />
+</p>
+
+---
+
+## 🎧 Now Playing  
+(Replace your Spotify ID!)
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
+</p>
 
 
+---
 
+
+## 🌈 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heizelannjoseph/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/heizelannjoseph">
+    <img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
