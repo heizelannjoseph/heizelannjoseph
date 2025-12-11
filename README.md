@@ -60,9 +60,5 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="600" />
-</p>
 
