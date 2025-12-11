@@ -60,8 +60,9 @@
   </a>
 </p>
 
+---
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTl5eDBnOWYyeGk4bm5vZDc0Z3h4amhzYzBpbG03MjRwN3JzbW1uYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="700"/>
 </p>
 
 
