@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=36&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Heizel+Ann+Joseph;Web+Developer+%7C+Tech+Explorer;Code.+Create.+Inspire.💖">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=36&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Heizel+Ann+Joseph;Web+Developer+%7C+Tech+Explorer;">
 </h1>
+
+<!-- 🌸 Cute Girl Coding Animation -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/15/3c/1e/153c1ecb7fd8cd21d7f4a8574fbe0c57.gif" width="400" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f6/67/76/f66776f10e13af7e1e76c7315bbf6e6f.gif" width="800" />
@@ -22,7 +27,7 @@
 
 ---
 
-## Tech Stack  
+## 💖 Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,18 +48,6 @@
 </p>
 
 ---
-
-
-
-## 🎧 Now Playing  
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jukzgtv5xoxc32og3hgep544em&cover_image=true&theme=novatorem" />
-</p>
-
-
----
-
 
 ## 🌈 Let’s Connect  
 
