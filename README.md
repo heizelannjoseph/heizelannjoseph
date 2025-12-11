@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENR6C7ZkAAAAC/coding-girl.gif" width="400" />
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" />
 </p>
 
 
