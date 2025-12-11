@@ -3,11 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/k-WIea-ZXG8AAAAC/anime-programming.gif" width="400" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2J1OXN3Z2ZzMzhneWc5ZzB6b2d1Z3NybnNrdmZvbTh6aW5xbWxhYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="400" />
 </p>
-
-
-
 
 
 <p align="center">
