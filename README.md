@@ -62,7 +62,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/11StaZ9Lj74oCY/giphy.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/haoruilee/haoruilee/main/assets/guitar.svg"/>
 </p>
 
 
