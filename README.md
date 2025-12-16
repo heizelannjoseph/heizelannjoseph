@@ -27,7 +27,7 @@
 
 ---
 
-##Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white" />
