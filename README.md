@@ -17,17 +17,17 @@
 
 ---
 
-## 🌷 About Me  
+## About Me  
 
-💖 Final Year B.Tech CSE Student  
-✨ Passionate about building clean, aesthetic digital experiences  
-🎨 UI/UX lover | React & Flutter explorer  
-🧠 DSA learner | Always curious  
-🌈 Dreaming big & coding it into reality  
+👾 Final Year B.Tech CSE Student  
+👾 Passionate about building clean, aesthetic digital experiences  
+👾 UI/UX lover | React & Flutter explorer  
+👾 DSA learner | Always curious  
+👾 Dreaming big & coding it into reality  
 
 ---
 
-## 💖 Tech Stack  
+##Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-ff6f91?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 💫 Skills & Tools  
+##  Skills & Tools  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,git,figma,vscode,github,python,mysql" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌈 Let’s Connect  
+##  Let’s Connect  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heizelannjoseph/">
